@@ -7,6 +7,14 @@ using namespace std;
 int dias, horas, minutos, segundos;
 
 //estos son nuevos comentarios para saber si git funciona
+/*
+*kjhgohoigi
+*
+* hdjhe
+*dhgwergrig
+*rjgoerigper
+*
+*/
 
 //Declaracion de funciones
 void entrada(){
